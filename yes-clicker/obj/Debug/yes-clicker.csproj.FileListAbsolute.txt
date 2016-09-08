@@ -1,0 +1,9 @@
+f:\users\toshiba\documents\visual studio 2015\Projects\yes-clicker\yes-clicker\bin\Debug\yes-clicker.exe.config
+f:\users\toshiba\documents\visual studio 2015\Projects\yes-clicker\yes-clicker\bin\Debug\yes-clicker.exe
+f:\users\toshiba\documents\visual studio 2015\Projects\yes-clicker\yes-clicker\bin\Debug\yes-clicker.pdb
+f:\users\toshiba\documents\visual studio 2015\Projects\yes-clicker\yes-clicker\obj\Debug\yes_clicker.Form1.resources
+f:\users\toshiba\documents\visual studio 2015\Projects\yes-clicker\yes-clicker\obj\Debug\yes_clicker.Properties.Resources.resources
+f:\users\toshiba\documents\visual studio 2015\Projects\yes-clicker\yes-clicker\obj\Debug\yes-clicker.csproj.GenerateResource.Cache
+f:\users\toshiba\documents\visual studio 2015\Projects\yes-clicker\yes-clicker\obj\Debug\yes-clicker.exe
+f:\users\toshiba\documents\visual studio 2015\Projects\yes-clicker\yes-clicker\obj\Debug\yes-clicker.pdb
+f:\users\toshiba\documents\visual studio 2015\Projects\yes-clicker\yes-clicker\obj\Debug\yes-clicker.csprojResolveAssemblyReference.cache
